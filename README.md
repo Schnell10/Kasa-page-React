@@ -4,10 +4,10 @@
 
 ## **Technologies Utilisées**
 
--  **React** : Framework frontend pour la création d'applications web interactives.
--  **HTML** : Langage de balisage pour la structuration du contenu web.
--  **SASS (SCSS)** : Extension de CSS pour faciliter la gestion du style.
--  **React Router** : Bibliothèque pour la gestion de la navigation et du routing dans les applications React.
+-  **React**
+-  **HTML**
+-  **SASS (SCSS)**
+-  **React Router**
 
 ## **Fonctionnalités Principales**
 
